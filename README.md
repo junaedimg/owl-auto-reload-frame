@@ -29,19 +29,6 @@ Dengan script ini:
 
 ---
 
-## 🚀 Menjalankan Script
-
-### 1. Install Dependency
-Pastikan kamu berada di root folder project, lalu jalankan:
-```bash
-npm install ws
-```
-### 2. Running scriptnya.
-```bash
-node watcher.js
-```
----
-
 ## 📂 Struktur Folder
  ```bash  
 project-folder/
@@ -49,3 +36,23 @@ project-folder/
 ├── js/
 │   └── generic.js       # Sisipkan isi Client.js ke Generic.js untuk reload di sisi client
   ```
+
+---
+
+## 🚀 Menjalankan Script
+### 1. Install NodeJS
+[Salah satu "opsi" install di YouTube WPU](https://www.youtube.com/watch?v=VfN1_pEdQAA&list=PLFIM0718LjIW-XBdVOerYgKegBtD6rSfD&index=3)
+### 2. Install Dependency
+Pastikan kamu berada di root folder project, dan sudah menyalin script yang dibutuhkan, sesuai dengan Struktur Folder di atas, lalu jalankan:
+```bash
+npm install ws
+```
+### 3. Running scriptnya.
+```bash
+node watcher.js
+```
+### 4. Instalasi selesai, selanjutnya setiap kali ingin menjalankannya, hanya perlu mengetikan.
+```bash
+node watcher.js
+```
+setiap kali ingin menjalankan,
