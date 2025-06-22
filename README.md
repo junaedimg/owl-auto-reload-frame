@@ -30,7 +30,9 @@ Dengan script ini:
 ---
 
 ## 📂 Struktur Folder
+ ```bash  
 project-folder/
 ├── watcher.js           # WebSocket server (Node.js)
 ├── js/
 │   └── generic.js       # Script client untuk reload iframe
+  ```
