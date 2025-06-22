@@ -13,7 +13,7 @@ Sebelumnya, setiap perubahan file `.php` atau `.js` membutuhkan:
 - Pilih "Reload Frame" secara manual
 
 Dengan script ini:
-- Perubahan file langsung memicu reload pada iframe (otomatis)
+- Perubahan file langsung memicu reload pada frame (otomatis)
 - **Menghemat waktu developer**
 - Mencegah lupa reload saat pengembangan
 
