@@ -55,4 +55,3 @@ node watcher.js
 ```bash
 node watcher.js
 ```
-setiap kali ingin menjalankan,
