@@ -30,7 +30,6 @@ Dengan script ini:
 ---
 
 ## 📂 Struktur Folder
-project/
-├── watcher.js       # WebSocket server (Node.js)
+├── watcher.js # WebSocket server (Node.js)
 ├── js/
-│   └── generic.js   # Sisipkan isi Script.js ke Generic.js untuk reload frame pada Client.
+│ └── generic.js # Script client untuk reload iframe
