@@ -32,9 +32,9 @@ Dengan script ini:
 ## 📂 Struktur Folder
  ```bash  
 project-folder/
-├── watcher.js           # Copy watcher.js ke root "/" untuk WebSocket server (Node.js)
+├── watcher.js           # Copy watcher.js ke root "/" untuk WebSocket server (NodeJS)
 ├── js/
-│   └── generic.js       # Sisipkan isi Client.js ke Generic.js untuk reload di sisi client
+│   └── generic.js       # Sisipkan isi client.js ke generic.js untuk reload di sisi client
   ```
 
 ---
