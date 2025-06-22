@@ -34,5 +34,5 @@ Dengan script ini:
 project-folder/
 ├── watcher.js           # WebSocket server (Node.js)
 ├── js/
-│   └── generic.js       # Script client untuk reload iframe
+│   └── generic.js       # Script client untuk reload
   ```
