@@ -2,7 +2,7 @@
 
 # 🔄 Auto Frame Reload for Development
 
-Script ini digunakan untuk **mempercepat proses development** di lingkungan kerja kantor.
+Script ini digunakan untuk **mempercepat proses development** di lingkungan kerja kantor. (Mirip dan terinspirasi dari Extensi "Live Server" pada VSCode).
 
 ---
 
