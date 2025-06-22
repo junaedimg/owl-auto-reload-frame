@@ -29,10 +29,23 @@ Dengan script ini:
 
 ---
 
+## 🚀 Menjalankan Script
+
+### 1. Install Dependency
+Pastikan kamu berada di root folder project, lalu jalankan:
+```bash
+npm install ws
+```
+### 2. Running scriptnya.
+```bash
+node watcher.js
+```
+---
+
 ## 📂 Struktur Folder
  ```bash  
 project-folder/
-├── watcher.js           # WebSocket server (Node.js)
+├── watcher.js           # Copy watcher.js ke root "/" untuk WebSocket server (Node.js)
 ├── js/
-│   └── generic.js       # Script client untuk reload
+│   └── generic.js       # Sisipkan isi Client.js ke Generic.js untuk reload di sisi client
   ```
